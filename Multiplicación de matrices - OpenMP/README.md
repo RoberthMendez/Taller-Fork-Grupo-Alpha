@@ -23,7 +23,7 @@ gcc mmClasicaOpenMP.c mmInterfazOpenMP.c -o clasicaOpenMP -fopenmp
 ```
 ---
 
-##Recomendaciones
+## Recomendaciones
 - No utilizar más hilos que los soportados por el sistema para evitar pérdida de rendimiento.
 - La impresión de matrices solo se realiza si su tamaño es menor a 9 para facilitar la lectura.
 
