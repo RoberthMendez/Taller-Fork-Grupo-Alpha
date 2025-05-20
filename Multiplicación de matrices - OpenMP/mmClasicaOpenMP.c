@@ -1,6 +1,6 @@
 /**********************************************************************************************************
  * - Pontificia Universidad Javeriana
- * - Nombres: Gabriel Jaramillo, Viviana Gomez, Roberth Mendez, Luz Adriana Salazar, Guden Silva
+ * - Autor: Roberth Mendez
  * - Clase: Sistemas Operativos
  * - Fecha: 2025-04-30
  * - Tema: Evaluación de Rendimiento
